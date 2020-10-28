@@ -1,4 +1,4 @@
-<mxfile modified="2020-10-28T08:10:48.477Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="UpfLB1Yr1Hb_TQ9SVc2c" version="13.8.0" type="github" pages="4">
+<mxfile modified="2020-10-28T08:18:20.910Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="8pC7GmtbYxflQPmMN1ne" version="13.8.0" type="github" pages="5">
   <diagram id="OFtFwTtmWmDuu0DWMTB4" name="node.js">
     <mxGraphModel dx="1479" dy="337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1989,7 +1989,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="node.js basics" id="uTm4tC-kwAkRDuBUp_OQ">
-    <mxGraphModel dx="1944" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1747" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="JVHTCgVr1izu8cq3hV_d-0" />
         <mxCell id="JVHTCgVr1izu8cq3hV_d-1" parent="JVHTCgVr1izu8cq3hV_d-0" />
@@ -2365,6 +2365,64 @@
         <mxCell id="zoRceeG6cfnF1PiYoCWd-9" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;fontColor=#000000;" edge="1" parent="rk1rIYJmduLbI0cfVf5D-1" source="zoRceeG6cfnF1PiYoCWd-4" target="zoRceeG6cfnF1PiYoCWd-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Handlebars" id="Rlf9wcLJVh9VfVC-FSGv">
+    <mxGraphModel dx="6015" dy="3108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="a5rM1dEwdwaPM6U76lZb-0" />
+        <mxCell id="a5rM1dEwdwaPM6U76lZb-1" parent="a5rM1dEwdwaPM6U76lZb-0" />
+        <mxCell id="a5rM1dEwdwaPM6U76lZb-2" value="Handlebarsjs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;fontStyle=0" vertex="1" parent="a5rM1dEwdwaPM6U76lZb-1">
+          <mxGeometry x="273.5" y="30" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a5rM1dEwdwaPM6U76lZb-3" value="Legends" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="a5rM1dEwdwaPM6U76lZb-1">
+          <mxGeometry x="679" y="38" width="51" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="a5rM1dEwdwaPM6U76lZb-4" value="Personal must know" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#FFFF66;" vertex="1" parent="a5rM1dEwdwaPM6U76lZb-1">
+          <mxGeometry x="680" y="70" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="a5rM1dEwdwaPM6U76lZb-5" value="Good to know" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#FFCC99;" vertex="1" parent="a5rM1dEwdwaPM6U76lZb-1">
+          <mxGeometry x="680" y="100" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="a5rM1dEwdwaPM6U76lZb-6" value="Possibilities" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#CCCCCC;" vertex="1" parent="a5rM1dEwdwaPM6U76lZb-1">
+          <mxGeometry x="680" y="130" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="a5rM1dEwdwaPM6U76lZb-7" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=12;exitX=0.5;exitY=1;entryX=0;entryY=0;endFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;entryDx=0;entryDy=0;strokeWidth=10;" edge="1" parent="a5rM1dEwdwaPM6U76lZb-1" source="a5rM1dEwdwaPM6U76lZb-2" target="a5rM1dEwdwaPM6U76lZb-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="100" as="sourcePoint" />
+            <mxPoint x="389.5" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a5rM1dEwdwaPM6U76lZb-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/logotypes/32/github-128.png;rounded=1;glass=0;comic=0;strokeColor=#000000;fillColor=#FFFFFF;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="a5rM1dEwdwaPM6U76lZb-1">
+          <mxGeometry x="20" y="40" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="a5rM1dEwdwaPM6U76lZb-9" value="Nodejs-developer-roadmap" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="a5rM1dEwdwaPM6U76lZb-1">
+          <mxGeometry x="42.5" y="42.5" width="260" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="a5rM1dEwdwaPM6U76lZb-11" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;dashed=1;" edge="1" parent="a5rM1dEwdwaPM6U76lZb-1" source="a5rM1dEwdwaPM6U76lZb-13" target="a5rM1dEwdwaPM6U76lZb-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a5rM1dEwdwaPM6U76lZb-12" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=10;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;" edge="1" parent="a5rM1dEwdwaPM6U76lZb-1" source="a5rM1dEwdwaPM6U76lZb-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="441.5" y="980.0000000000005" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="700" />
+              <mxPoint x="410" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a5rM1dEwdwaPM6U76lZb-13" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" vertex="1" parent="a5rM1dEwdwaPM6U76lZb-1">
+          <mxGeometry x="470" y="310" width="23" height="23" as="geometry" />
+        </mxCell>
+        <UserObject label="Use" link="https://www.npmjs.com/package/hbs" id="a5rM1dEwdwaPM6U76lZb-15">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#FFFF66;" vertex="1" parent="a5rM1dEwdwaPM6U76lZb-1">
+            <mxGeometry x="840" y="360" width="120" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
