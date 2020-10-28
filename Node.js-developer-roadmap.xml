@@ -1,4 +1,4 @@
-<mxfile modified="2020-10-28T07:03:17.571Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="QC6u5--axLY7FlcDLbe8" version="13.8.0" type="github" pages="4">
+<mxfile modified="2020-10-28T07:36:32.535Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="iZ9TmA7fw0XX1BZ91JK5" version="13.8.0" type="github" pages="4">
   <diagram id="OFtFwTtmWmDuu0DWMTB4" name="node.js">
     <mxGraphModel dx="1479" dy="337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2068,7 +2068,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="express.js" id="YKKITbpUCjkb7qLrQdfh">
-    <mxGraphModel dx="7936" dy="3673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2130" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="rk1rIYJmduLbI0cfVf5D-0" />
         <mxCell id="rk1rIYJmduLbI0cfVf5D-1" parent="rk1rIYJmduLbI0cfVf5D-0" />
@@ -2186,6 +2186,14 @@
         <mxCell id="1KeunU-G2zXsqrETFl_y-18" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;dashed=1;" edge="1" parent="rk1rIYJmduLbI0cfVf5D-1" source="1KeunU-G2zXsqrETFl_y-8" target="1KeunU-G2zXsqrETFl_y-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="1KeunU-G2zXsqrETFl_y-28" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;" edge="1" parent="rk1rIYJmduLbI0cfVf5D-1" source="1KeunU-G2zXsqrETFl_y-8" target="1KeunU-G2zXsqrETFl_y-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="1680" />
+              <mxPoint x="330" y="1840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1KeunU-G2zXsqrETFl_y-8" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" vertex="1" parent="rk1rIYJmduLbI0cfVf5D-1">
           <mxGeometry x="620" y="1530" width="23" height="23" as="geometry" />
         </mxCell>
@@ -2220,6 +2228,31 @@
         <UserObject label="&lt;h1 class=&quot;title is-2 m-t-0 m-b-xs&quot;&gt;New Features and Upgrading from 3.0&lt;/h1&gt;" link="https://scotch.io/bar-talk/expressjs-4-0-new-features-and-upgrading-from-3-0" id="1KeunU-G2zXsqrETFl_y-25">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=none;strokeColor=none;" vertex="1" parent="rk1rIYJmduLbI0cfVf5D-1">
             <mxGeometry x="1780" y="2050" width="310" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="1KeunU-G2zXsqrETFl_y-30" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;dashed=1;" edge="1" parent="rk1rIYJmduLbI0cfVf5D-1" source="1KeunU-G2zXsqrETFl_y-27" target="1KeunU-G2zXsqrETFl_y-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1KeunU-G2zXsqrETFl_y-27" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" vertex="1" parent="rk1rIYJmduLbI0cfVf5D-1">
+          <mxGeometry x="470" y="1940" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="1KeunU-G2zXsqrETFl_y-32" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;" edge="1" parent="rk1rIYJmduLbI0cfVf5D-1" source="1KeunU-G2zXsqrETFl_y-29" target="1KeunU-G2zXsqrETFl_y-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Coding" id="1KeunU-G2zXsqrETFl_y-29">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#FFFF66;" vertex="1" parent="rk1rIYJmduLbI0cfVf5D-1">
+            <mxGeometry x="170" y="2000" width="120" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="1KeunU-G2zXsqrETFl_y-34" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;dashed=1;" edge="1" parent="rk1rIYJmduLbI0cfVf5D-1" source="1KeunU-G2zXsqrETFl_y-31" target="1KeunU-G2zXsqrETFl_y-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1KeunU-G2zXsqrETFl_y-31" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" vertex="1" parent="rk1rIYJmduLbI0cfVf5D-1">
+          <mxGeometry x="110" y="2170" width="23" height="23" as="geometry" />
+        </mxCell>
+        <UserObject label="Create a simple server" link="https://github.com/dangleit01/express" id="1KeunU-G2zXsqrETFl_y-33">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=none;strokeColor=none;" vertex="1" parent="rk1rIYJmduLbI0cfVf5D-1">
+            <mxGeometry x="-150" y="2230" width="120" height="50" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
