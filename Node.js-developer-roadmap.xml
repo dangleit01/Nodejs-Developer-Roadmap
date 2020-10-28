@@ -1,4 +1,4 @@
-<mxfile modified="2020-10-28T06:48:27.769Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="_heQ9dmmYjuh1kC0OUnY" version="13.8.0" type="github" pages="4">
+<mxfile modified="2020-10-28T07:03:17.571Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="QC6u5--axLY7FlcDLbe8" version="13.8.0" type="github" pages="4">
   <diagram id="OFtFwTtmWmDuu0DWMTB4" name="node.js">
     <mxGraphModel dx="1479" dy="337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2068,7 +2068,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="express.js" id="YKKITbpUCjkb7qLrQdfh">
-    <mxGraphModel dx="1609" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="7936" dy="3673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="rk1rIYJmduLbI0cfVf5D-0" />
         <mxCell id="rk1rIYJmduLbI0cfVf5D-1" parent="rk1rIYJmduLbI0cfVf5D-0" />
@@ -2115,6 +2115,7 @@
             <mxPoint x="511.5" y="430" as="targetPoint" />
             <Array as="points">
               <mxPoint x="680" y="700" />
+              <mxPoint x="410" y="810" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2152,7 +2153,15 @@
         <mxCell id="1KeunU-G2zXsqrETFl_y-2" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;dashed=1;" edge="1" parent="rk1rIYJmduLbI0cfVf5D-1" source="1KeunU-G2zXsqrETFl_y-0" target="1KeunU-G2zXsqrETFl_y-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1KeunU-G2zXsqrETFl_y-0" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" vertex="1" parent="rk1rIYJmduLbI0cfVf5D-1">
+        <mxCell id="1KeunU-G2zXsqrETFl_y-16" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=10;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;" edge="1" parent="rk1rIYJmduLbI0cfVf5D-1" source="1KeunU-G2zXsqrETFl_y-0" target="1KeunU-G2zXsqrETFl_y-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="1170" />
+              <mxPoint x="410" y="1290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1KeunU-G2zXsqrETFl_y-0" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" vertex="1" parent="rk1rIYJmduLbI0cfVf5D-1">
           <mxGeometry x="430" y="980" width="23" height="23" as="geometry" />
         </mxCell>
         <mxCell id="1KeunU-G2zXsqrETFl_y-4" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;" edge="1" parent="rk1rIYJmduLbI0cfVf5D-1" source="1KeunU-G2zXsqrETFl_y-1" target="1KeunU-G2zXsqrETFl_y-3">
@@ -2172,6 +2181,45 @@
         <UserObject label="&lt;div align=&quot;right&quot;&gt;Performance and reliability &lt;/div&gt;" link="https://expressjs.com/en/advanced/best-practice-performance.html" id="1KeunU-G2zXsqrETFl_y-5">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=none;strokeColor=none;align=right;" vertex="1" parent="rk1rIYJmduLbI0cfVf5D-1">
             <mxGeometry x="-80" y="1290" width="120" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="1KeunU-G2zXsqrETFl_y-18" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;dashed=1;" edge="1" parent="rk1rIYJmduLbI0cfVf5D-1" source="1KeunU-G2zXsqrETFl_y-8" target="1KeunU-G2zXsqrETFl_y-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1KeunU-G2zXsqrETFl_y-8" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" vertex="1" parent="rk1rIYJmduLbI0cfVf5D-1">
+          <mxGeometry x="620" y="1530" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="1KeunU-G2zXsqrETFl_y-20" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;" edge="1" parent="rk1rIYJmduLbI0cfVf5D-1" source="1KeunU-G2zXsqrETFl_y-17" target="1KeunU-G2zXsqrETFl_y-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Release" link="https://adrianmejia.com/getting-started-with-node-js-modules-require-exports-imports-npm-and-beyond/https://adrianmejia.com/getting-started-with-node-js-modules-require-exports-imports-npm-and-beyond/" id="1KeunU-G2zXsqrETFl_y-17">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#FFFF66;" vertex="1" parent="rk1rIYJmduLbI0cfVf5D-1">
+            <mxGeometry x="953" y="1553" width="120" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="1KeunU-G2zXsqrETFl_y-22" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;dashed=1;" edge="1" parent="rk1rIYJmduLbI0cfVf5D-1" source="1KeunU-G2zXsqrETFl_y-19" target="1KeunU-G2zXsqrETFl_y-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1KeunU-G2zXsqrETFl_y-19" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" vertex="1" parent="rk1rIYJmduLbI0cfVf5D-1">
+          <mxGeometry x="1130" y="1780" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="1KeunU-G2zXsqrETFl_y-24" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;" edge="1" parent="rk1rIYJmduLbI0cfVf5D-1" source="1KeunU-G2zXsqrETFl_y-21" target="1KeunU-G2zXsqrETFl_y-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;h1 class=&quot;title is-2 m-t-0 m-b-xs&quot;&gt;ExpressJS 4.0&lt;/h1&gt;" link="https://adrianmejia.com/getting-started-with-node-js-modules-require-exports-imports-npm-and-beyond/https://adrianmejia.com/getting-started-with-node-js-modules-require-exports-imports-npm-and-beyond/" id="1KeunU-G2zXsqrETFl_y-21">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#FFFF66;" vertex="1" parent="rk1rIYJmduLbI0cfVf5D-1">
+            <mxGeometry x="1420" y="1790" width="170" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="1KeunU-G2zXsqrETFl_y-26" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;dashed=1;" edge="1" parent="rk1rIYJmduLbI0cfVf5D-1" source="1KeunU-G2zXsqrETFl_y-23" target="1KeunU-G2zXsqrETFl_y-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1KeunU-G2zXsqrETFl_y-23" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" vertex="1" parent="rk1rIYJmduLbI0cfVf5D-1">
+          <mxGeometry x="1580" y="2020" width="23" height="23" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;h1 class=&quot;title is-2 m-t-0 m-b-xs&quot;&gt;New Features and Upgrading from 3.0&lt;/h1&gt;" link="https://scotch.io/bar-talk/expressjs-4-0-new-features-and-upgrading-from-3-0" id="1KeunU-G2zXsqrETFl_y-25">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=none;strokeColor=none;" vertex="1" parent="rk1rIYJmduLbI0cfVf5D-1">
+            <mxGeometry x="1780" y="2050" width="310" height="70" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
