@@ -1,4 +1,4 @@
-<mxfile modified="2020-10-28T10:12:07.787Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="D3UPLh-fWnKJxmBN4x6E" version="13.8.0" type="github" pages="5">
+<mxfile modified="2020-10-28T13:26:28.400Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="YvEe7QaCIm8GqBEIpq32" version="13.8.0" type="github" pages="6">
   <diagram id="OFtFwTtmWmDuu0DWMTB4" name="node.js">
     <mxGraphModel dx="1479" dy="337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1989,7 +1989,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="node.js basics" id="uTm4tC-kwAkRDuBUp_OQ">
-    <mxGraphModel dx="1747" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2130" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="JVHTCgVr1izu8cq3hV_d-0" />
         <mxCell id="JVHTCgVr1izu8cq3hV_d-1" parent="JVHTCgVr1izu8cq3hV_d-0" />
@@ -2466,6 +2466,64 @@
         </mxCell>
         <UserObject label="Use" link="https://www.npmjs.com/package/hbs" id="a5rM1dEwdwaPM6U76lZb-15">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#FFFF66;" vertex="1" parent="a5rM1dEwdwaPM6U76lZb-1">
+            <mxGeometry x="840" y="360" width="120" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Morgan" id="gI40n0tqF_42mKfkyus6">
+    <mxGraphModel dx="1955" dy="1010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="-aCHCRY4bm0L0ufZRf0Q-0" />
+        <mxCell id="-aCHCRY4bm0L0ufZRf0Q-1" parent="-aCHCRY4bm0L0ufZRf0Q-0" />
+        <mxCell id="-aCHCRY4bm0L0ufZRf0Q-2" value="Morgan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;fontStyle=0" vertex="1" parent="-aCHCRY4bm0L0ufZRf0Q-1">
+          <mxGeometry x="290" y="30" width="263.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-aCHCRY4bm0L0ufZRf0Q-3" value="Legends" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="-aCHCRY4bm0L0ufZRf0Q-1">
+          <mxGeometry x="679" y="38" width="51" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-aCHCRY4bm0L0ufZRf0Q-4" value="Personal must know" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#FFFF66;" vertex="1" parent="-aCHCRY4bm0L0ufZRf0Q-1">
+          <mxGeometry x="680" y="70" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-aCHCRY4bm0L0ufZRf0Q-5" value="Good to know" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#FFCC99;" vertex="1" parent="-aCHCRY4bm0L0ufZRf0Q-1">
+          <mxGeometry x="680" y="100" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-aCHCRY4bm0L0ufZRf0Q-6" value="Possibilities" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#CCCCCC;" vertex="1" parent="-aCHCRY4bm0L0ufZRf0Q-1">
+          <mxGeometry x="680" y="130" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-aCHCRY4bm0L0ufZRf0Q-7" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=12;exitX=0.5;exitY=1;entryX=0;entryY=0;endFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;entryDx=0;entryDy=0;strokeWidth=10;" edge="1" parent="-aCHCRY4bm0L0ufZRf0Q-1" source="-aCHCRY4bm0L0ufZRf0Q-2" target="-aCHCRY4bm0L0ufZRf0Q-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="100" as="sourcePoint" />
+            <mxPoint x="389.5" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-aCHCRY4bm0L0ufZRf0Q-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/logotypes/32/github-128.png;rounded=1;glass=0;comic=0;strokeColor=#000000;fillColor=#FFFFFF;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="-aCHCRY4bm0L0ufZRf0Q-1">
+          <mxGeometry x="20" y="40" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-aCHCRY4bm0L0ufZRf0Q-9" value="Nodejs-developer-roadmap" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="-aCHCRY4bm0L0ufZRf0Q-1">
+          <mxGeometry x="42.5" y="42.5" width="260" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="-aCHCRY4bm0L0ufZRf0Q-10" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;dashed=1;" edge="1" parent="-aCHCRY4bm0L0ufZRf0Q-1" source="-aCHCRY4bm0L0ufZRf0Q-12" target="-aCHCRY4bm0L0ufZRf0Q-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-aCHCRY4bm0L0ufZRf0Q-11" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=10;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;" edge="1" parent="-aCHCRY4bm0L0ufZRf0Q-1" source="-aCHCRY4bm0L0ufZRf0Q-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="441.5" y="980.0000000000005" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="700" />
+              <mxPoint x="410" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-aCHCRY4bm0L0ufZRf0Q-12" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" vertex="1" parent="-aCHCRY4bm0L0ufZRf0Q-1">
+          <mxGeometry x="470" y="310" width="23" height="23" as="geometry" />
+        </mxCell>
+        <UserObject label="Use" link="https://dev.to/arifamujawar/using-morgan-with-express-for-backend-logging-30g7" id="-aCHCRY4bm0L0ufZRf0Q-13">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#FFFF66;" vertex="1" parent="-aCHCRY4bm0L0ufZRf0Q-1">
             <mxGeometry x="840" y="360" width="120" height="50" as="geometry" />
           </mxCell>
         </UserObject>
