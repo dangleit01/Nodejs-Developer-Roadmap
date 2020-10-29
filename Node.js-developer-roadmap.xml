@@ -1,4 +1,4 @@
-<mxfile modified="2020-10-29T08:10:31.118Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="iuFpc8FW8-PJlzmhJtw6" version="13.8.0" type="github" pages="6">
+<mxfile modified="2020-10-29T08:11:33.841Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="7BoRUldRQswZj9r1KZDU" version="13.8.0" type="github" pages="6">
   <diagram id="OFtFwTtmWmDuu0DWMTB4" name="node.js">
     <mxGraphModel dx="1479" dy="337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2200,9 +2200,28 @@
         <mxCell id="FTH4vZexcxYJXR9oGWc_-6" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" vertex="1" parent="JVHTCgVr1izu8cq3hV_d-1">
           <mxGeometry x="1160" y="2338" width="23" height="23" as="geometry" />
         </mxCell>
+        <mxCell id="FTH4vZexcxYJXR9oGWc_-11" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;fontColor=#000000;" edge="1" parent="JVHTCgVr1izu8cq3hV_d-1" source="FTH4vZexcxYJXR9oGWc_-8" target="FTH4vZexcxYJXR9oGWc_-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="path" link="https://nodejs.org/api/path.html" id="FTH4vZexcxYJXR9oGWc_-8">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#FFFF66;labelBackgroundColor=none;" vertex="1" parent="JVHTCgVr1izu8cq3hV_d-1">
             <mxGeometry x="1360" y="2350" width="167.5" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FTH4vZexcxYJXR9oGWc_-13" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;fontColor=#000000;dashed=1;" edge="1" parent="JVHTCgVr1izu8cq3hV_d-1" source="FTH4vZexcxYJXR9oGWc_-10" target="FTH4vZexcxYJXR9oGWc_-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTH4vZexcxYJXR9oGWc_-10" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" vertex="1" parent="JVHTCgVr1izu8cq3hV_d-1">
+          <mxGeometry x="1490" y="2530" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="FTH4vZexcxYJXR9oGWc_-14" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;fontColor=#000000;" edge="1" parent="JVHTCgVr1izu8cq3hV_d-1" source="FTH4vZexcxYJXR9oGWc_-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1840" y="2575.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;a href=&quot;https://nodejs.org/api/path.html#path_path_join_paths&quot;&gt;&lt;code&gt;path.join([...paths])&lt;/code&gt;&lt;/a&gt;" link="https://nodejs.org/api/path.html" id="FTH4vZexcxYJXR9oGWc_-12">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#FFFF66;labelBackgroundColor=none;" vertex="1" parent="JVHTCgVr1izu8cq3hV_d-1">
+            <mxGeometry x="1690" y="2553" width="167.5" height="45" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
