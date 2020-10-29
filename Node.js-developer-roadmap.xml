@@ -1,4 +1,4 @@
-<mxfile modified="2020-10-29T07:49:35.257Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="3ccAN_SHKAOu1xRklueS" version="13.8.0" type="github" pages="6">
+<mxfile modified="2020-10-29T08:10:31.118Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="iuFpc8FW8-PJlzmhJtw6" version="13.8.0" type="github" pages="6">
   <diagram id="OFtFwTtmWmDuu0DWMTB4" name="node.js">
     <mxGraphModel dx="1479" dy="337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1991,7 +1991,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="node.js basics" id="uTm4tC-kwAkRDuBUp_OQ">
-    <mxGraphModel dx="1747" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2391" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="JVHTCgVr1izu8cq3hV_d-0" />
         <mxCell id="JVHTCgVr1izu8cq3hV_d-1" parent="JVHTCgVr1izu8cq3hV_d-0" />
@@ -2137,6 +2137,13 @@
         <mxCell id="_eg9sfqcaKKXgiTVQy5P-7" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;fontColor=#000000;dashed=1;" edge="1" parent="JVHTCgVr1izu8cq3hV_d-1" source="_eg9sfqcaKKXgiTVQy5P-4" target="_eg9sfqcaKKXgiTVQy5P-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="FTH4vZexcxYJXR9oGWc_-3" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=10;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;fontColor=#000000;" edge="1" parent="JVHTCgVr1izu8cq3hV_d-1" source="_eg9sfqcaKKXgiTVQy5P-4" target="FTH4vZexcxYJXR9oGWc_-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="1800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_eg9sfqcaKKXgiTVQy5P-4" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" vertex="1" parent="JVHTCgVr1izu8cq3hV_d-1">
           <mxGeometry x="590" y="1550" width="23" height="23" as="geometry" />
         </mxCell>
@@ -2171,6 +2178,31 @@
         <UserObject label="nodemon" id="_eg9sfqcaKKXgiTVQy5P-14">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#FFFF66;labelBackgroundColor=none;" vertex="1" parent="JVHTCgVr1izu8cq3hV_d-1">
             <mxGeometry x="-437.5" y="2043" width="167.5" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FTH4vZexcxYJXR9oGWc_-5" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;fontColor=#000000;dashed=1;" edge="1" parent="JVHTCgVr1izu8cq3hV_d-1" source="FTH4vZexcxYJXR9oGWc_-2" target="FTH4vZexcxYJXR9oGWc_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTH4vZexcxYJXR9oGWc_-2" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" vertex="1" parent="JVHTCgVr1izu8cq3hV_d-1">
+          <mxGeometry x="656" y="2088" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="FTH4vZexcxYJXR9oGWc_-7" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;fontColor=#000000;" edge="1" parent="JVHTCgVr1izu8cq3hV_d-1" source="FTH4vZexcxYJXR9oGWc_-4" target="FTH4vZexcxYJXR9oGWc_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Built-in Modules" id="FTH4vZexcxYJXR9oGWc_-4">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#FFFF66;labelBackgroundColor=none;" vertex="1" parent="JVHTCgVr1izu8cq3hV_d-1">
+            <mxGeometry x="920" y="2120" width="167.5" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FTH4vZexcxYJXR9oGWc_-9" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;fontColor=#000000;dashed=1;" edge="1" parent="JVHTCgVr1izu8cq3hV_d-1" source="FTH4vZexcxYJXR9oGWc_-6" target="FTH4vZexcxYJXR9oGWc_-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTH4vZexcxYJXR9oGWc_-6" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" vertex="1" parent="JVHTCgVr1izu8cq3hV_d-1">
+          <mxGeometry x="1160" y="2338" width="23" height="23" as="geometry" />
+        </mxCell>
+        <UserObject label="path" link="https://nodejs.org/api/path.html" id="FTH4vZexcxYJXR9oGWc_-8">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#FFFF66;labelBackgroundColor=none;" vertex="1" parent="JVHTCgVr1izu8cq3hV_d-1">
+            <mxGeometry x="1360" y="2350" width="167.5" height="45" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
@@ -2724,7 +2756,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Morgan" id="gI40n0tqF_42mKfkyus6">
-    <mxGraphModel dx="2130" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2957" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="-aCHCRY4bm0L0ufZRf0Q-0" />
         <mxCell id="-aCHCRY4bm0L0ufZRf0Q-1" parent="-aCHCRY4bm0L0ufZRf0Q-0" />
@@ -2799,6 +2831,9 @@
         </mxCell>
         <mxCell id="7HLkH1Jmq20_PF4XWQVn-3" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" vertex="1" parent="-aCHCRY4bm0L0ufZRf0Q-1">
           <mxGeometry x="-400" y="1060" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="7HLkH1Jmq20_PF4XWQVn-36" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;fontColor=#000000;" edge="1" parent="-aCHCRY4bm0L0ufZRf0Q-1" source="7HLkH1Jmq20_PF4XWQVn-4" target="7HLkH1Jmq20_PF4XWQVn-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;h3&gt;Predefined format strings&lt;/h3&gt;" link="https://dev.to/arifamujawar/using-morgan-with-express-for-backend-logging-30g7" id="7HLkH1Jmq20_PF4XWQVn-4">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#FFFF66;" vertex="1" parent="-aCHCRY4bm0L0ufZRf0Q-1">
@@ -2884,6 +2919,17 @@
         <UserObject label="&lt;h2 id=&quot;creating-custom-tokens-with-custom-arguments&quot;&gt;Creating Custom Tokens with Custom Arguments&lt;/h2&gt;" link="https://www.digitalocean.com/community/tutorials/nodejs-getting-started-morgan" id="7HLkH1Jmq20_PF4XWQVn-33">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#FFFF66;" vertex="1" parent="-aCHCRY4bm0L0ufZRf0Q-1">
             <mxGeometry x="710" y="1400" width="180" height="102" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="7HLkH1Jmq20_PF4XWQVn-38" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;fontColor=#000000;dashed=1;" edge="1" parent="-aCHCRY4bm0L0ufZRf0Q-1" source="7HLkH1Jmq20_PF4XWQVn-35" target="7HLkH1Jmq20_PF4XWQVn-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7HLkH1Jmq20_PF4XWQVn-35" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" vertex="1" parent="-aCHCRY4bm0L0ufZRf0Q-1">
+          <mxGeometry x="-690" y="1277" width="23" height="23" as="geometry" />
+        </mxCell>
+        <UserObject label="various pre-defined formats provided" link="https://www.npmjs.com/package/morgan" id="7HLkH1Jmq20_PF4XWQVn-37">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#FFFF66;" vertex="1" parent="-aCHCRY4bm0L0ufZRf0Q-1">
+            <mxGeometry x="-950" y="1300" width="140" height="50" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
