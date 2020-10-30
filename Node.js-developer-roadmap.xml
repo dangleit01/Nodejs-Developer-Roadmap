@@ -1,4 +1,4 @@
-<mxfile modified="2020-10-30T15:03:23.968Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="yWN5wRh4cxT9S7SdRPqj" version="13.8.0" type="github" pages="6">
+<mxfile modified="2020-10-30T15:04:50.531Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="UIc-xBJRN74-gxKuI8Td" version="13.8.0" type="github" pages="6">
   <diagram id="OFtFwTtmWmDuu0DWMTB4" name="node.js">
     <mxGraphModel dx="1609" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2655,7 +2655,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Handlebars" id="Rlf9wcLJVh9VfVC-FSGv">
-    <mxGraphModel dx="3218" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3888" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="a5rM1dEwdwaPM6U76lZb-0" />
         <mxCell id="a5rM1dEwdwaPM6U76lZb-1" parent="a5rM1dEwdwaPM6U76lZb-0" />
@@ -2698,14 +2698,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="a5rM1dEwdwaPM6U76lZb-13" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" parent="a5rM1dEwdwaPM6U76lZb-1" vertex="1">
-          <mxGeometry x="940" y="2110" width="23" height="23" as="geometry" />
+          <mxGeometry x="510" y="660" width="23" height="23" as="geometry" />
         </mxCell>
         <mxCell id="VX7pTcmHIAzpSBzJwMlS-48" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;fontColor=#000000;" parent="a5rM1dEwdwaPM6U76lZb-1" source="a5rM1dEwdwaPM6U76lZb-15" target="VX7pTcmHIAzpSBzJwMlS-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="hbs" link="https://www.npmjs.com/package/hbs" id="a5rM1dEwdwaPM6U76lZb-15">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#FFFF66;" parent="a5rM1dEwdwaPM6U76lZb-1" vertex="1">
-            <mxGeometry x="1290" y="2136.5" width="120" height="50" as="geometry" />
+            <mxGeometry x="860" y="686.5" width="120" height="50" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="VX7pTcmHIAzpSBzJwMlS-2" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;fontColor=#000000;dashed=1;" parent="a5rM1dEwdwaPM6U76lZb-1" source="VX7pTcmHIAzpSBzJwMlS-0" target="VX7pTcmHIAzpSBzJwMlS-1" edge="1">
@@ -2873,22 +2873,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VX7pTcmHIAzpSBzJwMlS-47" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" parent="a5rM1dEwdwaPM6U76lZb-1" vertex="1">
-          <mxGeometry x="1410" y="2300" width="23" height="23" as="geometry" />
+          <mxGeometry x="980" y="850" width="23" height="23" as="geometry" />
         </mxCell>
         <UserObject label="registers partials " link="https://medium.com/@paulelis/node-express-js-hbs-and-partials-4afa3b16a291" id="VX7pTcmHIAzpSBzJwMlS-49">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#FFFF66;" parent="a5rM1dEwdwaPM6U76lZb-1" vertex="1">
-            <mxGeometry x="1560" y="2320" width="120" height="50" as="geometry" />
+            <mxGeometry x="1130" y="870" width="120" height="50" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="VX7pTcmHIAzpSBzJwMlS-54" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;fontColor=#000000;dashed=1;" parent="a5rM1dEwdwaPM6U76lZb-1" source="VX7pTcmHIAzpSBzJwMlS-50" target="VX7pTcmHIAzpSBzJwMlS-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VX7pTcmHIAzpSBzJwMlS-50" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" parent="a5rM1dEwdwaPM6U76lZb-1" vertex="1">
-          <mxGeometry x="1480" y="2480" width="23" height="23" as="geometry" />
+          <mxGeometry x="1050" y="1030" width="23" height="23" as="geometry" />
         </mxCell>
         <UserObject label="registers helpers " link="https://medium.com/@paulelis/node-express-js-hbs-and-partials-4afa3b16a291" id="VX7pTcmHIAzpSBzJwMlS-52">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#FFFF66;" parent="a5rM1dEwdwaPM6U76lZb-1" vertex="1">
-            <mxGeometry x="1241" y="2530" width="120" height="50" as="geometry" />
+            <mxGeometry x="811" y="1080" width="120" height="50" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
