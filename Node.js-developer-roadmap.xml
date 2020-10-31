@@ -1,4 +1,4 @@
-<mxfile modified="2020-10-31T10:20:56.509Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="SGDKczedyC0aMGVG1bNT" version="13.8.0" type="github" pages="7">
+<mxfile modified="2020-10-31T10:21:36.153Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="dqjG94czAUQ7fB_Ri0nE" version="13.8.0" type="github" pages="7">
   <diagram id="OFtFwTtmWmDuu0DWMTB4" name="node.js">
     <mxGraphModel dx="1609" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -3253,6 +3253,9 @@
         <mxCell id="9ccmPCFbV9ObM5SAwgfJ-17" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="VAlxni2HxaQL3pv6I9RX-1" source="9ccmPCFbV9ObM5SAwgfJ-0" target="9ccmPCFbV9ObM5SAwgfJ-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9ccmPCFbV9ObM5SAwgfJ-33" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;" edge="1" parent="VAlxni2HxaQL3pv6I9RX-1" source="9ccmPCFbV9ObM5SAwgfJ-12" target="9ccmPCFbV9ObM5SAwgfJ-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9ccmPCFbV9ObM5SAwgfJ-12" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" vertex="1" parent="VAlxni2HxaQL3pv6I9RX-1">
           <mxGeometry x="440" y="530" width="23" height="23" as="geometry" />
         </mxCell>
@@ -3281,7 +3284,7 @@
         <mxCell id="9ccmPCFbV9ObM5SAwgfJ-21" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" vertex="1" parent="VAlxni2HxaQL3pv6I9RX-1">
           <mxGeometry x="21" y="339.43" width="23" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="9ccmPCFbV9ObM5SAwgfJ-29" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;" edge="1" parent="VAlxni2HxaQL3pv6I9RX-1" source="9ccmPCFbV9ObM5SAwgfJ-23" target="9ccmPCFbV9ObM5SAwgfJ-27">
+        <mxCell id="9ccmPCFbV9ObM5SAwgfJ-29" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="VAlxni2HxaQL3pv6I9RX-1" source="9ccmPCFbV9ObM5SAwgfJ-32" target="9ccmPCFbV9ObM5SAwgfJ-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;code&gt;&quot;extends&quot;: &quot;eslint:recommended&quot;&lt;/code&gt; " link="https://eslint.org/docs/rules/" id="9ccmPCFbV9ObM5SAwgfJ-23">
@@ -3291,15 +3294,20 @@
         </UserObject>
         <UserObject label="--fix" link="https://github.com/dangleit01/eslint-plugin-markdown/tree/master/examples/typescript" id="9ccmPCFbV9ObM5SAwgfJ-26">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#FFFF66;" vertex="1" parent="VAlxni2HxaQL3pv6I9RX-1">
-            <mxGeometry x="-40" y="465.68" width="120" height="30" as="geometry" />
+            <mxGeometry x="650" y="610" width="120" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="9ccmPCFbV9ObM5SAwgfJ-30" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;" edge="1" parent="VAlxni2HxaQL3pv6I9RX-1" source="9ccmPCFbV9ObM5SAwgfJ-27" target="9ccmPCFbV9ObM5SAwgfJ-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9ccmPCFbV9ObM5SAwgfJ-27" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" vertex="1" parent="VAlxni2HxaQL3pv6I9RX-1">
-          <mxGeometry x="130" y="446.18" width="23" height="23" as="geometry" />
+          <mxGeometry x="590" y="600" width="23" height="23" as="geometry" />
         </mxCell>
+        <UserObject label="options" id="9ccmPCFbV9ObM5SAwgfJ-32">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#FFFF66;" vertex="1" parent="VAlxni2HxaQL3pv6I9RX-1">
+            <mxGeometry x="530" y="540" width="100" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
