@@ -1,4 +1,4 @@
-<mxfile modified="2020-10-31T10:16:37.151Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="_k-YnB1-8Dqb9sHGz_6Z" version="13.8.0" type="github" pages="7">
+<mxfile modified="2020-10-31T10:19:34.548Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="GUP71AnXigk2glVDP0_J" version="13.8.0" type="github" pages="7">
   <diagram id="OFtFwTtmWmDuu0DWMTB4" name="node.js">
     <mxGraphModel dx="1609" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -3136,7 +3136,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="eslint" id="f5m9CVdwRU7QM0oO4C3J">
-    <mxGraphModel dx="920" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1747" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="VAlxni2HxaQL3pv6I9RX-0" />
         <mxCell id="VAlxni2HxaQL3pv6I9RX-1" parent="VAlxni2HxaQL3pv6I9RX-0" />
@@ -3215,12 +3215,17 @@
         <mxCell id="VAlxni2HxaQL3pv6I9RX-60" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;" edge="1" parent="VAlxni2HxaQL3pv6I9RX-1" source="VAlxni2HxaQL3pv6I9RX-57" target="VAlxni2HxaQL3pv6I9RX-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9ccmPCFbV9ObM5SAwgfJ-22" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VAlxni2HxaQL3pv6I9RX-1" source="VAlxni2HxaQL3pv6I9RX-57" target="9ccmPCFbV9ObM5SAwgfJ-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="68.72540530934907" y="411.83075345569205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VAlxni2HxaQL3pv6I9RX-57" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" vertex="1" parent="VAlxni2HxaQL3pv6I9RX-1">
-          <mxGeometry x="288.5" y="380" width="23" height="23" as="geometry" />
+          <mxGeometry x="107" y="323" width="23" height="23" as="geometry" />
         </mxCell>
         <UserObject label="error level" link="https://www.npmjs.com/package/eslint" id="VAlxni2HxaQL3pv6I9RX-59">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#FFFF66;" vertex="1" parent="VAlxni2HxaQL3pv6I9RX-1">
-            <mxGeometry x="112.5" y="380" width="120" height="30" as="geometry" />
+            <mxGeometry x="-69" y="323" width="120" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="VAlxni2HxaQL3pv6I9RX-64" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;" edge="1" parent="VAlxni2HxaQL3pv6I9RX-1" source="VAlxni2HxaQL3pv6I9RX-61" target="VAlxni2HxaQL3pv6I9RX-63">
@@ -3276,6 +3281,17 @@
         <mxCell id="9ccmPCFbV9ObM5SAwgfJ-18" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" vertex="1" parent="VAlxni2HxaQL3pv6I9RX-1">
           <mxGeometry x="570" y="600" width="23" height="23" as="geometry" />
         </mxCell>
+        <mxCell id="9ccmPCFbV9ObM5SAwgfJ-25" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="VAlxni2HxaQL3pv6I9RX-1" source="9ccmPCFbV9ObM5SAwgfJ-21" target="9ccmPCFbV9ObM5SAwgfJ-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9ccmPCFbV9ObM5SAwgfJ-21" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" vertex="1" parent="VAlxni2HxaQL3pv6I9RX-1">
+          <mxGeometry x="51" y="400.25" width="23" height="23" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;code&gt;&quot;extends&quot;: &quot;eslint:recommended&quot;&lt;/code&gt; " link="https://eslint.org/docs/rules/" id="9ccmPCFbV9ObM5SAwgfJ-23">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#FFFF66;" vertex="1" parent="VAlxni2HxaQL3pv6I9RX-1">
+            <mxGeometry x="92.5" y="430" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
