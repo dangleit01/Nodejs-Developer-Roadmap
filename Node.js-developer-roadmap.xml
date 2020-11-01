@@ -1,4 +1,4 @@
-<mxfile modified="2020-11-01T09:59:16.180Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="MOBVg3fDrJvYzjg0XLFq" version="13.8.0" type="github" pages="7">
+<mxfile modified="2020-11-01T10:03:35.343Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="KM7FL-52QDxWOfxRUwml" version="13.8.0" type="github" pages="7">
   <diagram id="OFtFwTtmWmDuu0DWMTB4" name="node.js">
     <mxGraphModel dx="1609" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2444,7 +2444,7 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;h1 class=&quot;title is-2 m-t-0 m-b-xs&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;ExpressJS 4.0&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;" link="https://adrianmejia.com/getting-started-with-node-js-modules-require-exports-imports-npm-and-beyond/https://adrianmejia.com/getting-started-with-node-js-modules-require-exports-imports-npm-and-beyond/" id="1KeunU-G2zXsqrETFl_y-21">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#FFFF66;" parent="rk1rIYJmduLbI0cfVf5D-1" vertex="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#FFFF66;verticalAlign=middle;" parent="rk1rIYJmduLbI0cfVf5D-1" vertex="1">
             <mxGeometry x="583.95" y="364" width="95.7" height="29" as="geometry" />
           </mxCell>
         </UserObject>
