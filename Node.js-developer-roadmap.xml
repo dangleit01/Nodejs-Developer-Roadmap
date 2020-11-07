@@ -1,4 +1,4 @@
-<mxfile modified="2020-11-07T09:44:34.138Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="gxofPInTj5vQ6TsbuqSU" version="13.8.8" type="github" pages="7">
+<mxfile modified="2020-11-07T09:44:42.773Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="24xUnP2ZrI-_mZiOQ8gD" version="13.8.8" type="github" pages="7">
   <diagram id="OFtFwTtmWmDuu0DWMTB4" name="node.js">
     <mxGraphModel dx="1366" dy="279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2054,7 +2054,7 @@
         </mxCell>
         <UserObject label="nvm" link="https://www.geeksforgeeks.org/how-to-update-node-js-and-npm-to-next-version/" id="AiXP1RH_C0I7SABoe_ai-6">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#FFFF66;" parent="Y11Pp6egPMO2uIT_9NEC-1" vertex="1">
-            <mxGeometry x="-399" y="412.75" width="130" height="27" as="geometry" />
+            <mxGeometry x="-320" y="412.75" width="51" height="27" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Hi1mwjRsTAKakEQVnfR9-4" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;" edge="1" parent="Y11Pp6egPMO2uIT_9NEC-1" source="Hi1mwjRsTAKakEQVnfR9-0" target="Hi1mwjRsTAKakEQVnfR9-2">
@@ -2065,7 +2065,7 @@
         </mxCell>
         <UserObject label="npx" link="https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b" id="Hi1mwjRsTAKakEQVnfR9-2">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#FFFF66;" vertex="1" parent="Y11Pp6egPMO2uIT_9NEC-1">
-            <mxGeometry x="-190" y="472.75" width="130" height="27" as="geometry" />
+            <mxGeometry x="-190" y="472.75" width="50" height="27" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Hi1mwjRsTAKakEQVnfR9-3" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;" edge="1" parent="Y11Pp6egPMO2uIT_9NEC-1" source="Hi1mwjRsTAKakEQVnfR9-0" target="Hi1mwjRsTAKakEQVnfR9-0">
