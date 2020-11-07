@@ -1,6 +1,6 @@
-<mxfile modified="2020-11-07T09:21:52.391Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="2F-nwBiMqOH5oDNPd7FV" version="13.8.8" type="github" pages="7">
+<mxfile modified="2020-11-07T09:26:21.623Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="ExialRk2aZUoq-VmvDRI" version="13.8.8" type="github" pages="7">
   <diagram id="OFtFwTtmWmDuu0DWMTB4" name="node.js">
-    <mxGraphModel dx="1609" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1366" dy="279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2058,7 +2058,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="node.js basics" id="uTm4tC-kwAkRDuBUp_OQ">
-    <mxGraphModel dx="3609" dy="1010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2574" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="JVHTCgVr1izu8cq3hV_d-0" />
         <mxCell id="JVHTCgVr1izu8cq3hV_d-1" parent="JVHTCgVr1izu8cq3hV_d-0" />
@@ -2287,6 +2287,9 @@
         <mxCell id="6KSGWOFDCejXz7a15Cb0-3" value="ESLint " style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#FFFF66;" parent="JVHTCgVr1izu8cq3hV_d-1" vertex="1">
           <mxGeometry x="-1336.75" y="523" width="70" height="29" as="geometry" />
         </mxCell>
+        <mxCell id="igsZSpj6eFglpi6eqzSw-3" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;" edge="1" parent="JVHTCgVr1izu8cq3hV_d-1" source="wejeFyhgJ0fD5fr2FEDN-4" target="igsZSpj6eFglpi6eqzSw-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wejeFyhgJ0fD5fr2FEDN-4" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" parent="JVHTCgVr1izu8cq3hV_d-1" vertex="1">
           <mxGeometry x="-1330.75" y="413" width="23" height="23" as="geometry" />
         </mxCell>
@@ -2296,6 +2299,17 @@
         <mxCell id="wejeFyhgJ0fD5fr2FEDN-6" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" parent="JVHTCgVr1izu8cq3hV_d-1" vertex="1">
           <mxGeometry x="-1242.5" y="513" width="23" height="23" as="geometry" />
         </mxCell>
+        <mxCell id="igsZSpj6eFglpi6eqzSw-5" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;" edge="1" parent="JVHTCgVr1izu8cq3hV_d-1" source="igsZSpj6eFglpi6eqzSw-0" target="igsZSpj6eFglpi6eqzSw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igsZSpj6eFglpi6eqzSw-0" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" vertex="1" parent="JVHTCgVr1izu8cq3hV_d-1">
+          <mxGeometry x="-1406.75" y="457" width="23" height="23" as="geometry" />
+        </mxCell>
+        <UserObject label="cpx" link="https://www.npmjs.com/package/cpx" id="igsZSpj6eFglpi6eqzSw-4">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#FFFF66;" vertex="1" parent="JVHTCgVr1izu8cq3hV_d-1">
+            <mxGeometry x="-1506.75" y="484" width="70" height="29" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
