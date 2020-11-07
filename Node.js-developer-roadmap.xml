@@ -1,4 +1,4 @@
-<mxfile modified="2020-11-07T09:26:21.623Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="ExialRk2aZUoq-VmvDRI" version="13.8.8" type="github" pages="7">
+<mxfile modified="2020-11-07T09:38:30.503Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="xXr9IsjS2vHtvpzPpVs9" version="13.8.8" type="github" pages="7">
   <diagram id="OFtFwTtmWmDuu0DWMTB4" name="node.js">
     <mxGraphModel dx="1366" dy="279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2184,9 +2184,12 @@
         <mxCell id="_eg9sfqcaKKXgiTVQy5P-0" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" parent="JVHTCgVr1izu8cq3hV_d-1" vertex="1">
           <mxGeometry x="-1052.25" y="380" width="23" height="23" as="geometry" />
         </mxCell>
+        <mxCell id="gW2Z4dZt01qUAiPgHXt9-1" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;" edge="1" parent="JVHTCgVr1izu8cq3hV_d-1" source="_eg9sfqcaKKXgiTVQy5P-2" target="gW2Z4dZt01qUAiPgHXt9-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="&lt;div style=&quot;font-weight: normal; line-height: 32px; font-size: 12px;&quot;&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Create&amp;nbsp;HTTP&amp;nbsp;server&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" link="https://github.com/dangleit01/express-generator-skeleton/blob/main/bin/www" id="_eg9sfqcaKKXgiTVQy5P-2">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#FFFF66;labelBackgroundColor=none;" parent="JVHTCgVr1izu8cq3hV_d-1" vertex="1">
-            <mxGeometry x="-999.75" y="373" width="130" height="30" as="geometry" />
+            <mxGeometry x="-986.13" y="350" width="130" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="_eg9sfqcaKKXgiTVQy5P-7" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;fontColor=#000000;dashed=1;" parent="JVHTCgVr1izu8cq3hV_d-1" source="_eg9sfqcaKKXgiTVQy5P-4" target="_eg9sfqcaKKXgiTVQy5P-6" edge="1">
@@ -2308,6 +2311,17 @@
         <UserObject label="cpx" link="https://www.npmjs.com/package/cpx" id="igsZSpj6eFglpi6eqzSw-4">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#FFFF66;" vertex="1" parent="JVHTCgVr1izu8cq3hV_d-1">
             <mxGeometry x="-1506.75" y="484" width="70" height="29" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="gW2Z4dZt01qUAiPgHXt9-3" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;" edge="1" parent="JVHTCgVr1izu8cq3hV_d-1" source="gW2Z4dZt01qUAiPgHXt9-0" target="gW2Z4dZt01qUAiPgHXt9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gW2Z4dZt01qUAiPgHXt9-0" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" vertex="1" parent="JVHTCgVr1izu8cq3hV_d-1">
+          <mxGeometry x="-800.25" y="350" width="23" height="23" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;h1 class=&quot;package-name-redundant&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;http-server&lt;/font&gt;&lt;/h1&gt;" link="https://www.npmjs.com/package/http-server" id="gW2Z4dZt01qUAiPgHXt9-2">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#FFFF66;labelBackgroundColor=none;" vertex="1" parent="JVHTCgVr1izu8cq3hV_d-1">
+            <mxGeometry x="-799.25" y="290" width="99.25" height="30" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
