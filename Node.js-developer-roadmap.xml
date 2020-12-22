@@ -1,4 +1,4 @@
-<mxfile modified="2020-12-22T08:50:31.933Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="jeXyN0Ql45g0lwfdutvW" version="14.0.1" type="github" pages="8">
+<mxfile modified="2020-12-22T08:52:18.104Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="5-ejsyU7jivMMHcEnEiD" version="14.0.1" type="github" pages="8">
   <diagram id="OFtFwTtmWmDuu0DWMTB4" name="node.js">
     <mxGraphModel dx="1230" dy="372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1850,7 +1850,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="(15)Logging" id="uTm4tC-kwAkRDuBUp_OQ">
-    <mxGraphModel dx="2239" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3066" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="JVHTCgVr1izu8cq3hV_d-0" />
         <mxCell id="JVHTCgVr1izu8cq3hV_d-1" parent="JVHTCgVr1izu8cq3hV_d-0" />
@@ -1908,6 +1908,9 @@
             <mxPoint x="-1296.9908679323462" y="134.3291175433419" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="U26E7CaLa83Eurv3ULBA-1" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;" edge="1" parent="JVHTCgVr1izu8cq3hV_d-1" source="kNMp7RRn-Ls_ECiwc9Ub-9" target="U26E7CaLa83Eurv3ULBA-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="visionmedia/debug" link="https://github.com/visionmedia/debug" id="kNMp7RRn-Ls_ECiwc9Ub-9">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#FFFF66;strokeColor=#000000;" parent="JVHTCgVr1izu8cq3hV_d-1" vertex="1">
             <mxGeometry x="-1460" y="165.75" width="137.5" height="30" as="geometry" />
@@ -1927,6 +1930,21 @@
         </mxCell>
         <mxCell id="FTH4vZexcxYJXR9oGWc_-2" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" parent="JVHTCgVr1izu8cq3hV_d-1" vertex="1">
           <mxGeometry x="-1039" y="529" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="U26E7CaLa83Eurv3ULBA-0" value="&lt;pre style=&quot;color: rgb(169, 183, 198); font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;import &lt;/span&gt;{ &lt;span style=&quot;color: rgb(152 , 118 , 170)&quot;&gt;debug &lt;/span&gt;} &lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;from &lt;/span&gt;&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&#39;debug&#39;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontFamily=Verdana;labelBackgroundColor=none;" vertex="1" parent="JVHTCgVr1izu8cq3hV_d-1">
+          <mxGeometry x="-1790" y="155.75" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U26E7CaLa83Eurv3ULBA-3" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;" edge="1" parent="JVHTCgVr1izu8cq3hV_d-1" source="U26E7CaLa83Eurv3ULBA-2" target="kNMp7RRn-Ls_ECiwc9Ub-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U26E7CaLa83Eurv3ULBA-5" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;" edge="1" parent="JVHTCgVr1izu8cq3hV_d-1" source="U26E7CaLa83Eurv3ULBA-2" target="U26E7CaLa83Eurv3ULBA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U26E7CaLa83Eurv3ULBA-2" value="&lt;pre style=&quot;color: rgb(169, 183, 198); font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;const &lt;/span&gt;logger = &lt;span style=&quot;color: rgb(152 , 118 , 170)&quot;&gt;debug&lt;/span&gt;(&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&#39;app:cache-warmer&#39;&lt;/span&gt;)&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontFamily=Verdana;labelBackgroundColor=none;" vertex="1" parent="JVHTCgVr1izu8cq3hV_d-1">
+          <mxGeometry x="-1880" y="193" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U26E7CaLa83Eurv3ULBA-4" value="&lt;pre style=&quot;color: rgb(169, 183, 198); font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;logger.&lt;span style=&quot;color: rgb(152 , 118 , 170)&quot;&gt;log &lt;/span&gt;= &lt;span style=&quot;color: rgb(152 , 118 , 170) ; font-weight: bold ; font-style: italic&quot;&gt;console&lt;/span&gt;.&lt;span style=&quot;color: rgb(255 , 198 , 109)&quot;&gt;log&lt;/span&gt;.&lt;span style=&quot;color: rgb(255 , 198 , 109)&quot;&gt;bind&lt;/span&gt;(&lt;span style=&quot;color: rgb(152 , 118 , 170) ; font-weight: bold ; font-style: italic&quot;&gt;console&lt;/span&gt;)&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontFamily=Verdana;labelBackgroundColor=none;" vertex="1" parent="JVHTCgVr1izu8cq3hV_d-1">
+          <mxGeometry x="-2270" y="195" width="320" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -2093,7 +2111,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Handlebars" id="Rlf9wcLJVh9VfVC-FSGv">
-    <mxGraphModel dx="2130" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1412" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="a5rM1dEwdwaPM6U76lZb-0" />
         <mxCell id="a5rM1dEwdwaPM6U76lZb-1" parent="a5rM1dEwdwaPM6U76lZb-0" />
@@ -2362,7 +2380,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Morgan" id="gI40n0tqF_42mKfkyus6">
-    <mxGraphModel dx="3434" dy="1347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1412" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="-aCHCRY4bm0L0ufZRf0Q-0" />
         <mxCell id="-aCHCRY4bm0L0ufZRf0Q-1" parent="-aCHCRY4bm0L0ufZRf0Q-0" />
@@ -2536,7 +2554,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="eslint" id="f5m9CVdwRU7QM0oO4C3J">
-    <mxGraphModel dx="1955" dy="1010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="585" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="VAlxni2HxaQL3pv6I9RX-0" />
         <mxCell id="VAlxni2HxaQL3pv6I9RX-1" parent="VAlxni2HxaQL3pv6I9RX-0" />
