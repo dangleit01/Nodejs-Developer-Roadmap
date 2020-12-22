@@ -1,6 +1,6 @@
-<mxfile modified="2020-12-22T18:40:14.216Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="OxjMnVVaaqBkIXINpkOS" version="14.0.1" type="github" pages="10">
+<mxfile modified="2020-12-22T18:58:24.440Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="u8Qz9UHdBU3QDA19H7Xp" version="14.0.1" type="github" pages="10">
   <diagram id="OFtFwTtmWmDuu0DWMTB4" name="node.js">
-    <mxGraphModel dx="1252" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1181" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -275,14 +275,16 @@
         <mxCell id="USpCuHMaRV2-BX1kq8Ne-209" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;" parent="1" source="15a4b3893f7299b4-105" target="15a4b3893f7299b4-107" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="15a4b3893f7299b4-105" value="Cloud Databases" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFCC99;" parent="1" vertex="1">
-          <mxGeometry x="-5" y="512" width="110" height="20" as="geometry" />
-        </mxCell>
+        <UserObject label="Cloud Databases" link="https://www.sfappworks.com/blogs/firebase-vs-aws-comparision/" id="15a4b3893f7299b4-105">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFCC99;" parent="1" vertex="1">
+            <mxGeometry x="-5" y="512" width="110" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="15a4b3893f7299b4-106" value="Azure CosmosDB" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;" parent="1" vertex="1">
-          <mxGeometry x="-190" y="430" width="90" height="15" as="geometry" />
+          <mxGeometry x="-190" y="399.5" width="90" height="15" as="geometry" />
         </mxCell>
         <mxCell id="15a4b3893f7299b4-107" value="Amazon DynamoDB" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFCC99;" parent="1" vertex="1">
-          <mxGeometry x="-190" y="455" width="90" height="35" as="geometry" />
+          <mxGeometry x="-190" y="424.5" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="15a4b3893f7299b4-110" value="Testing" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
           <mxGeometry x="281" y="1337.5" width="70" height="20" as="geometry" />
