@@ -1,4 +1,4 @@
-<mxfile modified="2020-12-29T04:40:11.870Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="24Th7xLncp4aqbjyoWNe" version="14.1.2" type="github" pages="15">
+<mxfile modified="2020-12-29T04:44:13.534Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="Nawyn65TaQtJ8PqYRqSm" version="14.1.2" type="github" pages="15">
   <diagram id="OFtFwTtmWmDuu0DWMTB4" name="node.js">
     <mxGraphModel dx="1165" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -3420,7 +3420,7 @@
             <mxPoint x="-1026.030252713973" y="564.4951308065033" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mEDyZIgfvzrwjvjZTL6d-4" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=10;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;fontColor=#000000;" edge="1" parent="Mx4l4HUbF1xrcOW9FdBj-1" source="mEDyZIgfvzrwjvjZTL6d-6">
+        <mxCell id="mEDyZIgfvzrwjvjZTL6d-4" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=10;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;fontColor=#000000;" edge="1" parent="Mx4l4HUbF1xrcOW9FdBj-1" source="mEDyZIgfvzrwjvjZTL6d-6" target="mEDyZIgfvzrwjvjZTL6d-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1014" y="702.56" as="targetPoint" />
           </mxGeometry>
@@ -3450,6 +3450,33 @@
         <mxCell id="mEDyZIgfvzrwjvjZTL6d-15" value="&lt;pre style=&quot;background-color: rgb(43 , 43 , 43) ; color: rgb(169 , 183 , 198) ; font-family: &amp;quot;jetbrains mono&amp;quot; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: rgb(152 , 118 , 170)&quot;&gt;passport&lt;/span&gt;.&lt;span style=&quot;color: rgb(255 , 198 , 109)&quot;&gt;use&lt;/span&gt;(&lt;br&gt;  &lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;new &lt;/span&gt;(Strategy &lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;as any&lt;/span&gt;)(&lt;br&gt;    {&lt;br&gt;      &lt;span style=&quot;color: rgb(152 , 118 , 170)&quot;&gt;usernameField&lt;/span&gt;: &lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&#39;id&#39;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;    &lt;/span&gt;}&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;    async &lt;/span&gt;(username&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;, &lt;/span&gt;password&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;, &lt;/span&gt;done) =&amp;gt; {&lt;br&gt;      &lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;const &lt;/span&gt;user = &lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;await &lt;/span&gt;UserService.&lt;span style=&quot;color: rgb(255 , 198 , 109) ; font-style: italic&quot;&gt;getUser&lt;/span&gt;(username)&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;      if &lt;/span&gt;(!user) {&lt;br&gt;        &lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;return &lt;/span&gt;done(&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;null, false, &lt;/span&gt;{ &lt;span style=&quot;color: rgb(152 , 118 , 170)&quot;&gt;message&lt;/span&gt;: &lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&#39;Incorrect username.&#39; &lt;/span&gt;})&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;      &lt;/span&gt;}&lt;br&gt;&lt;br&gt;      &lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;if &lt;/span&gt;(!(&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;await &lt;/span&gt;UserService.&lt;span style=&quot;color: rgb(255 , 198 , 109) ; font-style: italic&quot;&gt;validatePassword&lt;/span&gt;(username&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;, &lt;/span&gt;password))) {&lt;br&gt;        &lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;return &lt;/span&gt;done(&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;null, false, &lt;/span&gt;{ &lt;span style=&quot;color: rgb(152 , 118 , 170)&quot;&gt;message&lt;/span&gt;: &lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&#39;Incorrect password.&#39; &lt;/span&gt;})&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;      &lt;/span&gt;}&lt;br&gt;&lt;br&gt;      &lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;return &lt;/span&gt;done(&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;null, &lt;/span&gt;user)&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;    &lt;/span&gt;}&lt;br&gt;  )&lt;br&gt;)&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontFamily=Verdana;" vertex="1" parent="Mx4l4HUbF1xrcOW9FdBj-1">
           <mxGeometry x="-1860" y="635" width="560" height="300" as="geometry" />
         </mxCell>
+        <mxCell id="mEDyZIgfvzrwjvjZTL6d-17" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Mx4l4HUbF1xrcOW9FdBj-1" source="mEDyZIgfvzrwjvjZTL6d-18" target="mEDyZIgfvzrwjvjZTL6d-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-931.7500000000002" y="721.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEDyZIgfvzrwjvjZTL6d-18" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" vertex="1" parent="Mx4l4HUbF1xrcOW9FdBj-1">
+          <mxGeometry x="-1020.75" y="710" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="mEDyZIgfvzrwjvjZTL6d-19" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=10;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;fontColor=#000000;" edge="1" parent="Mx4l4HUbF1xrcOW9FdBj-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1007.7802527139729" y="733.4951308065033" as="sourcePoint" />
+            <mxPoint x="-1000.4999999999998" y="797.56" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEDyZIgfvzrwjvjZTL6d-23" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;" edge="1" parent="Mx4l4HUbF1xrcOW9FdBj-1" source="mEDyZIgfvzrwjvjZTL6d-20" target="mEDyZIgfvzrwjvjZTL6d-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div style=&quot;font-weight: normal ; line-height: 32px ; font-size: 12px&quot;&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;passport-local&lt;/div&gt;&lt;/div&gt;" link="http://www.passportjs.org/packages/passport-local/" id="mEDyZIgfvzrwjvjZTL6d-20">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#FFFF66;labelBackgroundColor=none;autosize=1;" vertex="1" parent="Mx4l4HUbF1xrcOW9FdBj-1">
+            <mxGeometry x="-925" y="701.5" width="100" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: courier; color: rgb(153, 168, 186);&quot;&gt;Passport strategy &lt;span style=&quot;color: #bf6426&quot;&gt;for &lt;/span&gt;authenticating &lt;span style=&quot;color: #bf6426&quot;&gt;with &lt;/span&gt;a username and password.&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" link="https://www.npmjs.com/package/passport" id="mEDyZIgfvzrwjvjZTL6d-22">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;fontStyle=0;whiteSpace=wrap;autosize=0;resizable=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="Mx4l4HUbF1xrcOW9FdBj-1">
+            <mxGeometry x="-760" y="681.5" width="310" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
