@@ -1,4 +1,4 @@
-<mxfile modified="2020-12-29T07:11:10.454Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="_QElH_wU-3u668XuoIB5" version="14.1.2" type="github" pages="17">
+<mxfile modified="2020-12-29T07:14:25.816Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="GYCYnzno9fF4VQUexNME" version="14.1.2" type="github" pages="17">
   <diagram id="OFtFwTtmWmDuu0DWMTB4" name="node.js">
     <mxGraphModel dx="1165" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -3759,7 +3759,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="(21)express-session" id="nRcDkQkeBaKmJZNK68MS">
-    <mxGraphModel dx="2060" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1992" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="rImsV64hhTC9NRuHiPlU-0" />
         <mxCell id="rImsV64hhTC9NRuHiPlU-1" parent="rImsV64hhTC9NRuHiPlU-0" />
@@ -3834,7 +3834,7 @@
         <mxCell id="rImsV64hhTC9NRuHiPlU-19" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" vertex="1" parent="rImsV64hhTC9NRuHiPlU-1">
           <mxGeometry x="-1043.75" y="467" width="23" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="rImsV64hhTC9NRuHiPlU-31" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;" edge="1" parent="rImsV64hhTC9NRuHiPlU-1" source="rImsV64hhTC9NRuHiPlU-20" target="rImsV64hhTC9NRuHiPlU-30">
+        <mxCell id="rImsV64hhTC9NRuHiPlU-31" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;" edge="1" parent="rImsV64hhTC9NRuHiPlU-1" source="rImsV64hhTC9NRuHiPlU-20" target="rImsV64hhTC9NRuHiPlU-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rImsV64hhTC9NRuHiPlU-20" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" vertex="1" parent="rImsV64hhTC9NRuHiPlU-1">
@@ -3875,6 +3875,38 @@
         <UserObject label="&lt;span style=&quot;font-size: 16px ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;verdana&amp;#34; , &amp;#34;tahoma&amp;#34; ; text-align: justify ; background-color: rgb(255 , 255 , 255)&quot;&gt;HTTP is stateless; in order to associate a request to any other request, you need a way to store user data between HTTP requests. Cookies and URL parameters are both suitable ways to transport data between the client and the server. But they are both readable and on the client side. Sessions solve exactly this problem. You assign the client an ID and it makes all further requests using that ID. Information associated with the client is stored on the server linked to this ID.&lt;/span&gt;" id="rImsV64hhTC9NRuHiPlU-30">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;fontStyle=0;whiteSpace=wrap;autosize=0;resizable=1;whiteSpace=wrap" vertex="1" parent="rImsV64hhTC9NRuHiPlU-1">
             <mxGeometry x="-930" y="541" width="460" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="rImsV64hhTC9NRuHiPlU-32" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=10;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;fontColor=#000000;" edge="1" parent="rImsV64hhTC9NRuHiPlU-1" target="rImsV64hhTC9NRuHiPlU-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1025.530252713973" y="563.9951308065033" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rImsV64hhTC9NRuHiPlU-33" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=10;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;fontColor=#000000;" edge="1" parent="rImsV64hhTC9NRuHiPlU-1" source="rImsV64hhTC9NRuHiPlU-35" target="rImsV64hhTC9NRuHiPlU-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rImsV64hhTC9NRuHiPlU-34" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;" edge="1" parent="rImsV64hhTC9NRuHiPlU-1" source="rImsV64hhTC9NRuHiPlU-35" target="rImsV64hhTC9NRuHiPlU-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1096" y="638.9549416342411" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rImsV64hhTC9NRuHiPlU-35" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" vertex="1" parent="rImsV64hhTC9NRuHiPlU-1">
+          <mxGeometry x="-1029.75" y="628.06" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="rImsV64hhTC9NRuHiPlU-39" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;" edge="1" parent="rImsV64hhTC9NRuHiPlU-1" source="rImsV64hhTC9NRuHiPlU-36" target="rImsV64hhTC9NRuHiPlU-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rImsV64hhTC9NRuHiPlU-36" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" vertex="1" parent="rImsV64hhTC9NRuHiPlU-1">
+          <mxGeometry x="-1025.75" y="720" width="23" height="23" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;font-size: 16px ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;verdana&amp;#34; , &amp;#34;tahoma&amp;#34; ; text-align: justify ; background-color: rgb(255 , 255 , 255)&quot;&gt;The default store for storing sessions, i.e., MemoryStore. Never use this in production environments&lt;/span&gt;" id="rImsV64hhTC9NRuHiPlU-37">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;fontStyle=0;whiteSpace=wrap;autosize=0;resizable=1;whiteSpace=wrap" vertex="1" parent="rImsV64hhTC9NRuHiPlU-1">
+            <mxGeometry x="-1330" y="628.06" width="230" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;font-size: 16px ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;verdana&amp;#34; , &amp;#34;tahoma&amp;#34; ; text-align: justify ; background-color: rgb(255 , 255 , 255)&quot;&gt;The session middleware handles all things for us, i.e., creating the session, setting the session cookie and creating the session object in&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 16px ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;verdana&amp;#34; , &amp;#34;tahoma&amp;#34; ; text-align: justify&quot;&gt;req&lt;/span&gt;&lt;span style=&quot;font-size: 16px ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;verdana&amp;#34; , &amp;#34;tahoma&amp;#34; ; text-align: justify ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;object&lt;/span&gt;" id="rImsV64hhTC9NRuHiPlU-38">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;fontStyle=0;whiteSpace=wrap;autosize=0;resizable=1;whiteSpace=wrap" vertex="1" parent="rImsV64hhTC9NRuHiPlU-1">
+            <mxGeometry x="-930" y="730" width="250" height="20" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
