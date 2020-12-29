@@ -1,4 +1,4 @@
-<mxfile modified="2020-12-29T04:29:44.122Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="cJCmaKbDn5egDiQc2ftO" version="14.1.2" type="github" pages="15">
+<mxfile modified="2020-12-29T04:32:15.793Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="R6s3hea7eAxPeoXFTCUC" version="14.1.2" type="github" pages="15">
   <diagram id="OFtFwTtmWmDuu0DWMTB4" name="node.js">
     <mxGraphModel dx="1165" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -3350,6 +3350,9 @@
         <mxCell id="Mx4l4HUbF1xrcOW9FdBj-15" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=10;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;fontColor=#000000;" edge="1" parent="Mx4l4HUbF1xrcOW9FdBj-1" source="Mx4l4HUbF1xrcOW9FdBj-16" target="Mx4l4HUbF1xrcOW9FdBj-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="RmYFXLj96wqJ_J3nwH8c-3" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;" edge="1" parent="Mx4l4HUbF1xrcOW9FdBj-1" source="Mx4l4HUbF1xrcOW9FdBj-16" target="RmYFXLj96wqJ_J3nwH8c-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Mx4l4HUbF1xrcOW9FdBj-16" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" vertex="1" parent="Mx4l4HUbF1xrcOW9FdBj-1">
           <mxGeometry x="-1052.25" y="380" width="23" height="23" as="geometry" />
         </mxCell>
@@ -3361,8 +3364,14 @@
         <mxCell id="Mx4l4HUbF1xrcOW9FdBj-18" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=10;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;fontColor=#000000;" edge="1" parent="Mx4l4HUbF1xrcOW9FdBj-1" source="Mx4l4HUbF1xrcOW9FdBj-19" target="Mx4l4HUbF1xrcOW9FdBj-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="mEDyZIgfvzrwjvjZTL6d-0" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;" edge="1" parent="Mx4l4HUbF1xrcOW9FdBj-1" source="Mx4l4HUbF1xrcOW9FdBj-19" target="RmYFXLj96wqJ_J3nwH8c-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Mx4l4HUbF1xrcOW9FdBj-19" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" vertex="1" parent="Mx4l4HUbF1xrcOW9FdBj-1">
           <mxGeometry x="-1043.75" y="467" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="mEDyZIgfvzrwjvjZTL6d-2" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;" edge="1" parent="Mx4l4HUbF1xrcOW9FdBj-1" source="Mx4l4HUbF1xrcOW9FdBj-20" target="mEDyZIgfvzrwjvjZTL6d-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Mx4l4HUbF1xrcOW9FdBj-20" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=12;align=center;fontColor=#ffffff;" vertex="1" parent="Mx4l4HUbF1xrcOW9FdBj-1">
           <mxGeometry x="-1039" y="541" width="23" height="23" as="geometry" />
@@ -3391,6 +3400,21 @@
             <mxGeometry x="-1436.75" y="277" width="310" height="20" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;source sans pro&amp;#34; , &amp;#34;lucida grande&amp;#34; , sans-serif ; font-size: 18px ; letter-spacing: 0.10000000149011612px&quot;&gt;Passport&#39;s sole purpose is to authenticate requests, which it does through an extensible set of plugins known as&amp;nbsp;&lt;/span&gt;&lt;em style=&quot;box-sizing: border-box ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;source sans pro&amp;#34; , &amp;#34;lucida grande&amp;#34; , sans-serif ; font-size: 18px ; letter-spacing: 0.10000000149011612px&quot;&gt;strategies&lt;/em&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;source sans pro&amp;#34; , &amp;#34;lucida grande&amp;#34; , sans-serif ; font-size: 18px ; letter-spacing: 0.10000000149011612px&quot;&gt;.&lt;/span&gt;" link="https://www.npmjs.com/package/passport" id="RmYFXLj96wqJ_J3nwH8c-2">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;fontStyle=0;whiteSpace=wrap;autosize=0;resizable=1;whiteSpace=wrap" vertex="1" parent="Mx4l4HUbF1xrcOW9FdBj-1">
+            <mxGeometry x="-960" y="370" width="310" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;source sans pro&amp;#34; , &amp;#34;lucida grande&amp;#34; , sans-serif ; font-size: 18px ; letter-spacing: 0.10000000149011612px&quot;&gt;Passport does not mount routes or assume any particular database schema, which maximizes flexibility and allows application-level decisions to be made by the developer.&lt;/span&gt;" link="https://www.npmjs.com/package/passport" id="RmYFXLj96wqJ_J3nwH8c-4">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;fontStyle=0;whiteSpace=wrap;autosize=0;resizable=1;whiteSpace=wrap" vertex="1" parent="Mx4l4HUbF1xrcOW9FdBj-1">
+            <mxGeometry x="-1420" y="468.5" width="310" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;source sans pro&amp;#34; , &amp;#34;lucida grande&amp;#34; , sans-serif ; font-size: 18px ; letter-spacing: 0.10000000149011612px&quot;&gt;The API is simple: you provide Passport a request to authenticate, and Passport provides hooks for controlling what occurs when authentication succeeds or fails.&lt;/span&gt;" link="https://www.npmjs.com/package/passport" id="mEDyZIgfvzrwjvjZTL6d-1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;fontStyle=0;whiteSpace=wrap;autosize=0;resizable=1;whiteSpace=wrap" vertex="1" parent="Mx4l4HUbF1xrcOW9FdBj-1">
+            <mxGeometry x="-950" y="542.5" width="410" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
@@ -3399,7 +3423,7 @@
       <root>
         <mxCell id="0JmvzL7PIgTg-IH6TJeL-0" />
         <mxCell id="0JmvzL7PIgTg-IH6TJeL-1" parent="0JmvzL7PIgTg-IH6TJeL-0" />
-        <mxCell id="0JmvzL7PIgTg-IH6TJeL-2" value="Create&amp;nbsp;HTTP&amp;nbsp;server&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;fontStyle=0;whiteSpace=wrap;autosize=1;resizable=0;" parent="0JmvzL7PIgTg-IH6TJeL-1" vertex="1">
+        <mxCell id="0JmvzL7PIgTg-IH6TJeL-2" value="Create&amp;nbsp;HTTP&amp;nbsp;server&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;fontStyle=0;whiteSpace=wrap;autosize=1;resizable=0;" parent="0JmvzL7PIgTg-IH6TJeL-1" vertex="1">
           <mxGeometry x="-1135.75" y="65" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0JmvzL7PIgTg-IH6TJeL-3" value="Legends" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;" parent="0JmvzL7PIgTg-IH6TJeL-1" vertex="1">
