@@ -1,4 +1,4 @@
-<mxfile modified="2020-12-29T04:44:13.534Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="Nawyn65TaQtJ8PqYRqSm" version="14.1.2" type="github" pages="15">
+<mxfile modified="2020-12-29T04:44:59.503Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="HOABIV1qGTl9WFj1y2k6" version="14.1.2" type="github" pages="15">
   <diagram id="OFtFwTtmWmDuu0DWMTB4" name="node.js">
     <mxGraphModel dx="1165" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -3467,6 +3467,9 @@
         <mxCell id="mEDyZIgfvzrwjvjZTL6d-23" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;" edge="1" parent="Mx4l4HUbF1xrcOW9FdBj-1" source="mEDyZIgfvzrwjvjZTL6d-20" target="mEDyZIgfvzrwjvjZTL6d-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="mEDyZIgfvzrwjvjZTL6d-25" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;" edge="1" parent="Mx4l4HUbF1xrcOW9FdBj-1" source="mEDyZIgfvzrwjvjZTL6d-20" target="mEDyZIgfvzrwjvjZTL6d-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="&lt;div style=&quot;font-weight: normal ; line-height: 32px ; font-size: 12px&quot;&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;passport-local&lt;/div&gt;&lt;/div&gt;" link="http://www.passportjs.org/packages/passport-local/" id="mEDyZIgfvzrwjvjZTL6d-20">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=12;fillColor=#FFFF66;labelBackgroundColor=none;autosize=1;" vertex="1" parent="Mx4l4HUbF1xrcOW9FdBj-1">
             <mxGeometry x="-925" y="701.5" width="100" height="40" as="geometry" />
@@ -3477,6 +3480,9 @@
             <mxGeometry x="-760" y="681.5" width="310" height="20" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="mEDyZIgfvzrwjvjZTL6d-24" value="&lt;pre style=&quot;font-size: 16px ; color: rgb(255 , 255 , 255)&quot;&gt;&lt;code&gt;&lt;span class=&quot;meta&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;bash&quot;&gt; npm install passport-local&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontFamily=Verdana;labelBackgroundColor=#4D4D4D;" vertex="1" parent="Mx4l4HUbF1xrcOW9FdBj-1">
+          <mxGeometry x="-760" y="710" width="280" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
