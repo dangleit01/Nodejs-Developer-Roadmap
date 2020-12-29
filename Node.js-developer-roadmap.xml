@@ -1,4 +1,4 @@
-<mxfile modified="2020-12-29T06:33:04.378Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="2jtkgKwrshqS43c8WXGs" version="14.1.2" type="github" pages="16">
+<mxfile modified="2020-12-29T06:34:24.182Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="BXQy4N0HjliqbeCbCcO9" version="14.1.2" type="github" pages="16">
   <diagram id="OFtFwTtmWmDuu0DWMTB4" name="node.js">
     <mxGraphModel dx="1165" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2718,9 +2718,11 @@
       <root>
         <mxCell id="-gkR92k7RTrmDPJI83bB-0" />
         <mxCell id="-gkR92k7RTrmDPJI83bB-1" parent="-gkR92k7RTrmDPJI83bB-0" />
-        <mxCell id="-gkR92k7RTrmDPJI83bB-2" value="cookie-parser" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;fontStyle=0;whiteSpace=wrap;autosize=1;resizable=0;" vertex="1" parent="-gkR92k7RTrmDPJI83bB-1">
-          <mxGeometry x="-1116" y="67.5" width="100" height="20" as="geometry" />
-        </mxCell>
+        <UserObject label="cookie-parser" link="https://www.npmjs.com/package/cookie-parser" id="-gkR92k7RTrmDPJI83bB-2">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;fontStyle=0;whiteSpace=wrap;autosize=1;resizable=0;" vertex="1" parent="-gkR92k7RTrmDPJI83bB-1">
+            <mxGeometry x="-1116" y="67.5" width="100" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="-gkR92k7RTrmDPJI83bB-3" value="Legends" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="-gkR92k7RTrmDPJI83bB-1">
           <mxGeometry x="-799.25" y="10" width="51" height="20" as="geometry" />
         </mxCell>
@@ -2795,9 +2797,14 @@
             <mxGeometry x="-1016" width="20" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;font color=&quot;#333333&quot; face=&quot;source sans pro, lucida grande, sans-serif&quot; size=&quot;4&quot;&gt;&lt;span style=&quot;letter-spacing: 0.10000000149011612px&quot;&gt;text&lt;/span&gt;&lt;/font&gt;" link="https://www.npmjs.com/package/passport" id="pZxdcKN6XaZeqRaCFT3c-0">
+        <UserObject label="&lt;font color=&quot;#333333&quot; face=&quot;source sans pro, lucida grande, sans-serif&quot; size=&quot;4&quot;&gt;&lt;span style=&quot;letter-spacing: 0.10000000149011612px&quot;&gt;text&lt;/span&gt;&lt;/font&gt;" id="pZxdcKN6XaZeqRaCFT3c-0">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;fontStyle=0;whiteSpace=wrap;autosize=0;resizable=1;whiteSpace=wrap" vertex="1" parent="-gkR92k7RTrmDPJI83bB-1">
             <mxGeometry x="-970" y="42" width="116" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;source sans pro&amp;#34; , &amp;#34;lucida grande&amp;#34; , sans-serif ; font-size: 18px ; letter-spacing: 0.10000000149011612px&quot;&gt;Parse&amp;nbsp;&lt;/span&gt;&lt;code style=&quot;letter-spacing: 0px ; box-sizing: border-box ; font-family: &amp;#34;fira mono&amp;#34; , &amp;#34;andale mono&amp;#34; , &amp;#34;consolas&amp;#34; , monospace ; font-size: 0.9em ; line-height: 24px ; border-top-left-radius: 2px ; border-top-right-radius: 2px ; border-bottom-right-radius: 2px ; border-bottom-left-radius: 2px ; background-color: rgb(247 , 247 , 247) ; padding: 0px 5px ; color: rgb(51 , 51 , 51)&quot;&gt;Cookie&lt;/code&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;source sans pro&amp;#34; , &amp;#34;lucida grande&amp;#34; , sans-serif ; font-size: 18px ; letter-spacing: 0.10000000149011612px&quot;&gt;&amp;nbsp;header and populate&amp;nbsp;&lt;/span&gt;&lt;code style=&quot;letter-spacing: 0px ; box-sizing: border-box ; font-family: &amp;#34;fira mono&amp;#34; , &amp;#34;andale mono&amp;#34; , &amp;#34;consolas&amp;#34; , monospace ; font-size: 0.9em ; line-height: 24px ; border-top-left-radius: 2px ; border-top-right-radius: 2px ; border-bottom-right-radius: 2px ; border-bottom-left-radius: 2px ; background-color: rgb(247 , 247 , 247) ; padding: 0px 5px ; color: rgb(51 , 51 , 51)&quot;&gt;req.cookies&lt;/code&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;source sans pro&amp;#34; , &amp;#34;lucida grande&amp;#34; , sans-serif ; font-size: 18px ; letter-spacing: 0.10000000149011612px&quot;&gt;&amp;nbsp;with an object keyed by the cookie names.&amp;nbsp;&lt;/span&gt;" id="bV8yDhirVGuyWWahIG0B-0">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;fontStyle=0;whiteSpace=wrap;autosize=0;resizable=1;whiteSpace=wrap" vertex="1" parent="-gkR92k7RTrmDPJI83bB-1">
+            <mxGeometry x="-930" y="170" width="116" height="20" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
@@ -3728,7 +3735,7 @@
             <mxGeometry x="-1016" width="20" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;font color=&quot;#333333&quot; face=&quot;source sans pro, lucida grande, sans-serif&quot; size=&quot;4&quot;&gt;&lt;span style=&quot;letter-spacing: 0.10000000149011612px&quot;&gt;text&lt;/span&gt;&lt;/font&gt;" link="https://www.npmjs.com/package/passport" id="lXPOXe3YaQ4ec8op1Eqq-0">
+        <UserObject label="&lt;font color=&quot;#333333&quot; face=&quot;source sans pro, lucida grande, sans-serif&quot; size=&quot;4&quot;&gt;&lt;span style=&quot;letter-spacing: 0.10000000149011612px&quot;&gt;text&lt;/span&gt;&lt;/font&gt;" id="lXPOXe3YaQ4ec8op1Eqq-0">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;fontStyle=0;whiteSpace=wrap;autosize=0;resizable=1;whiteSpace=wrap" vertex="1" parent="0JmvzL7PIgTg-IH6TJeL-1">
             <mxGeometry x="-970" y="42" width="116" height="20" as="geometry" />
           </mxCell>
